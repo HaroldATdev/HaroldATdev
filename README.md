@@ -87,6 +87,6 @@
 <!--icons and links-->
 <p align="center">
 <a href="https://www.linkedin.com/in/harold-estefano-alvarado-tineo-3322421a8/" target="blank"><img align="center" src="https://user-images.githubusercontent.com/88904952/234979284-68c11d7f-1acc-4f0c-ac78-044e1037d7b0.png" alt="linkedin" height="50" width="50" /></a>
-<a href="[https://www.linkedin.com/in/harold-estefano-alvarado-tineo-3322421a8/](https://profile.indeed.com/?hl=es_PE&co=PE&from=gnav-homepage)" target="blank"><img align="center" src="[https://user-images.githubusercontent.com/88904952/234979284-68c11d7f-1acc-4f0c-ac78-044e1037d7b0.png](https://indeed.design/static/b8209d5d21f91c9bbb250726f0c28824/1ce40/Logo-Hero-Static.webp)" alt="linkedin" height="50" width="50" /></a>
+<a href="[https://www.linkedin.com/in/harold-estefano-alvarado-tineo-3322421a8/](https://profile.indeed.com/?hl=es_PE&co=PE&from=gnav-homepage)" target="blank"><img align="center" src="https://indeed.design/static/b8209d5d21f91c9bbb250726f0c28824/1ce40/Logo-Hero-Static.webp" alt="linkedin" height="50" width="50" /></a>
   
 </p>
