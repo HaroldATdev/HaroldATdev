@@ -9,7 +9,7 @@
 </div>
 
 <div align="center">
-  <h2><a href="https://portfolio-henna-one-zjrcd7xwkr.vercel.app/es" target="blank">Mi portafolio</a></h2>
+  <h2><a href="https://portfolio-henna-one-zjrcd7xwkr.vercel.app/es" target="_blank">Mi portafolio</a></h2>
 </div>
 
 <!--- snake -->
@@ -87,7 +87,7 @@
 
 <!--icons and links-->
 <p align="center">
-<a href="https://www.linkedin.com/in/harold-estefano-alvarado-tineo-3322421a8/" target="blank"><img align="center" src="https://user-images.githubusercontent.com/88904952/234979284-68c11d7f-1acc-4f0c-ac78-044e1037d7b0.png" alt="linkedin" height="50" width="50" /></a>
-<a href="https://profile.indeed.com/?hl=es_PE&co=PE&from=gnav-homepage" target="blank"><img align="center" src="https://images.ctfassets.net/pdf29us7flmy/6QbAvgh7R9hr8lxKJkVyV1/5cd7acf551f0f9b6160eb886d1ae7440/SQUARE-Indeed_2021_Icon_RGB_Blue.png?w=720&q=100&fm=avif" alt="linkedin" height="50" width="50" /></a>
+<a href="https://www.linkedin.com/in/harold-estefano-alvarado-tineo-3322421a8/" target="_blank"><img align="center" src="https://user-images.githubusercontent.com/88904952/234979284-68c11d7f-1acc-4f0c-ac78-044e1037d7b0.png" alt="linkedin" height="50" width="50" /></a>
+<a href="https://profile.indeed.com/?hl=es_PE&co=PE&from=gnav-homepage" target="_blank"><img align="center" src="https://images.ctfassets.net/pdf29us7flmy/6QbAvgh7R9hr8lxKJkVyV1/5cd7acf551f0f9b6160eb886d1ae7440/SQUARE-Indeed_2021_Icon_RGB_Blue.png?w=720&q=100&fm=avif" alt="linkedin" height="50" width="50" /></a>
   
 </p>
