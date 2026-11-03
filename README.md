@@ -9,7 +9,7 @@
 </div>
 
 <div align="center">
-  <a href="https://portfolio-henna-one-zjrcd7xwkr.vercel.app/es" target="blank">Mi portafolio</a>
+  <a href="https://portfolio-henna-one-zjrcd7xwkr.vercel.app/es" target="blank"><h2>Mi portafolio</h2></a>
 </div>
 
 <!--- snake -->
